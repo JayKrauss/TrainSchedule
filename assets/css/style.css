@@ -1,0 +1,29 @@
+body {
+    background: url('../../assets/images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inputform {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+
+.banner {
+    background: url('../../assets/images/banner2.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+
+h1, h3, h4, h5 {
+    font-family: 'Shrikhand', cursive;
+    color: white;
+}
+
+h2 {
+    font-family: 'Shrikhand', cursive;
+    color: black;
+    text-align: center;
+}
